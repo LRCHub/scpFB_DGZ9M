@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Never Mind",
+  "base_artist": "LGYankees",
+  "createdAt": "2026-02-14T14:38:02.932805Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Never Mind Love",
+      "artist": "M People",
+      "has_synced": false,
+      "path": "select/01_Never_Mind_Love_M_People.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Never Mind",
+      "artist": "Bonfire",
+      "has_synced": false,
+      "path": "select/02_Never_Mind_Bonfire.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Never Mind",
+      "artist": "The Replacements",
+      "has_synced": true,
+      "path": "select/03_Never_Mind_The_Replacements.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Never Mind",
+      "artist": "flumpool",
+      "has_synced": true,
+      "path": "select/04_Never_Mind_flumpool.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Never Mind the Strangers",
+      "artist": "The Saw Doctors",
+      "has_synced": true,
+      "path": "select/05_Never_Mind_the_Strangers_The_Saw_Doctors.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Never Mind",
+      "artist": "Kenny Wayne Shepherd",
+      "has_synced": true,
+      "path": "select/06_Never_Mind_Kenny_Wayne_Shepherd.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Never Mind",
+      "artist": "Kenny Wayne Shepherd Band",
+      "has_synced": true,
+      "path": "select/07_Never_Mind_Kenny_Wayne_Shepherd_Band.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Never Mind",
+      "artist": "lil wayne",
+      "has_synced": true,
+      "path": "select/08_Never_Mind_lil_wayne.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Never Mind",
+      "artist": "Jann Arden",
+      "has_synced": true,
+      "path": "select/09_Never_Mind_Jann_Arden.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Never Mind",
+      "artist": "Cliff Richard",
+      "has_synced": false,
+      "path": "select/10_Never_Mind_Cliff_Richard.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Never Mind, Eh? - Live At The BBC For \"Pop Go The Beatles\" / 24th September, 1963",
+      "artist": "The Beatles feat. Rodney Burke",
+      "has_synced": true,
+      "path": "select/11_Never_Mind,_Eh__-_Live_At_The_BBC_For__Pop_Go_The_Beatles____24th_September,_196_The_Beatles_feat._Rodney_Burke.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Never mind the slavery",
+      "artist": "Rasmus Wold",
+      "has_synced": true,
+      "path": "select/12_Never_mind_the_slavery_Rasmus_Wold.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Intro: Never Mind",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/13_Intro__Never_Mind_BTS.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Never Mind (karaoke)",
+      "artist": "Paradise Lunch",
+      "has_synced": false,
+      "path": "select/14_Never_Mind_(karaoke)_Paradise_Lunch.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Never Mind",
+      "artist": "Paradise Lunch",
+      "has_synced": false,
+      "path": "select/15_Never_Mind_Paradise_Lunch.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "never mind, let's break up",
+      "artist": "LANY",
+      "has_synced": true,
+      "path": "select/16_never_mind,_let's_break_up_LANY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Never Mind",
+      "artist": "LGYankees",
+      "has_synced": false,
+      "path": "select/pl_01_Never_Mind_LGYankees.txt"
+    }
+  ]
+}
